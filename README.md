@@ -1,3 +1,7 @@
+# Fake News Prediction Using Machine Learning Python
+Developed a fake news detection model in Python using logistic regression and TF-IDF vectorization, achieving 95% accuracy on a Kaggle dataset of 72,124 news articles.
+
+## Overview
 The workflow of the project is as follows: <br>
 
 1. News articles labelled as real/fake news with authors name is downloaded from kaggale consisting of 72,124 news articles. <br>
